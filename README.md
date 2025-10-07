@@ -109,3 +109,14 @@ Export-ready: Generates structured Excel reports.
 
 The CNN model is pre-trained on the MNIST dataset and saved for reuse. This avoids retraining the model every time, significantly reducing processing time.
 Users can directly load the pre-trained model to predict digits from answer sheet images.
+
+## 📸 Project Screenshots
+
+**1. First Answer Sheet Evaluation**  
+![First Answer Sheet](screenshots/first_evaluated.png)
+
+**2. Third Answer Sheet Evaluation**  
+![Third Answer Sheet](screenshots/third_evaluated.png)
+
+**3. Generated Excel Report**  
+![Excel Output](screenshots/excel_output.png)
